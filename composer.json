@@ -1,0 +1,17 @@
+{
+    "name": "lichi/jenkinstest",
+    "autoload": {
+        "psr-4": {
+            "Lichi\\Jenkinstest\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "setsena",
+            "email": "329006327@qq.com"
+        }
+    ],
+    "require": {
+        "setsena/platinum": "^1.0"
+    }
+}
